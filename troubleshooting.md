@@ -5,7 +5,7 @@ Documento basado en:
  - OpenShift docs - Troubleshooting (https://docs.openshift.com/container-platform/4.5/support/troubleshooting/verifying-node-health.html)
 
 ## Indice
-[_TOC_]
+[[_TOC_]]
 
 ## Recoleccion de logs para soporte
 Cuando se presenta algun problema con el cluster, el primer paso deberia ser abrir un caso de soporte en el portal del cliente: https://access.redhat.com/support/cases/
